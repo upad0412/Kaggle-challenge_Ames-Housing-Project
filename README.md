@@ -6,3 +6,5 @@ Table of Contents:
 * Cleaning and Visualizing data Featuring matrix
 * Model Fitting Model Evaluation Prediction that model with given testing data 
 * Findings and Recommendation of the project
+
+You can find my all notbooks above for reference.
